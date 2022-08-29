@@ -5,6 +5,8 @@ Robot simulation program - Altair Python test
 
 Author: [Pau López Ribas](mailto:paulopezribas@gmail.com)
 
+* [Task definition guide](/task_definition/README.md)
+
 * The source code files are `robot.py` and `table.py`.
 
 * Python version used: 3.6.5
